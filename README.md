@@ -12,7 +12,7 @@ For `profileService`, create `.env` file with the content:
 PORT=3002
 MONGO_URL="specifyYourMongoURLHereWithDatabaseNameInTheEnd"
 ```
-
+#
 Finally install packages in both the services by running the command `npm install`.
 
 <br/>
